@@ -4,11 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c616aeba-d60c-4586-ae55-9a779724b34a" name="Default Changelist" comment="" />
+    <list default="true" id="c616aeba-d60c-4586-ae55-9a779724b34a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Maven_Test1/Maven_Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/TestOut_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/LabReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/SimulationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/AccountDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/AdvancedSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/ComponentBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/IpadSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/PasswordForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/SettingsRightPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/SimulationIpad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/java/org/testout/loadObjects/WiFiSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TestOut_Automation/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Test_Selenium_Project/Test_Selenium_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ken java/ken java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Automation_TestOutCorp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/LabReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestCore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AccountInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AdvancedAccountSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/BaseComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/PasswordForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/SettingsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/WiFiSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javascript/rock paper scizzers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../html/Homework/hw1.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,10 +78,63 @@
     </option>
   </component>
   <component name="ProjectId" id="1gN3UH8uxPBWGCzgWUW6my6gfmB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.63951933" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimulation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_TestOutCorp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.testout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.testout" />
+      <option name="MAIN_CLASS_NAME" value="org.testout.TestSimulation" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSimulation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,7 +144,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597941238668</updated>
+      <workItem from="1597941239991" duration="7410000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="360" key="#Deployment" timestamp="1597941393153">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="487" y="360" key="#Deployment/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597941393153" />
+    <state x="380" y="407" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597943663778">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="380" y="407" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597943663778" />
+    <state x="468" y="270" key="CommitChangelistDialog2" timestamp="1597941396903">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="468" y="270" key="CommitChangelistDialog2/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597941396903" />
+    <state width="1388" height="257" key="GridCell.Tab.0.bottom" timestamp="1597956579156">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1388" height="257" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597956579156" />
+    <state width="1388" height="257" key="GridCell.Tab.0.center" timestamp="1597956579155">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1388" height="257" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597956579155" />
+    <state width="1388" height="257" key="GridCell.Tab.0.left" timestamp="1597956579155">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1388" height="257" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597956579155" />
+    <state width="1388" height="257" key="GridCell.Tab.0.right" timestamp="1597956579155">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1388" height="257" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597956579155" />
+    <state x="456" y="407" key="Maven.ArtifactSearchDialog" timestamp="1597943699322">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="456" y="407" key="Maven.ArtifactSearchDialog/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597943699322" />
+    <state x="593" y="352" key="SettingsEditor" timestamp="1597956509775">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="593" y="352" key="SettingsEditor/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597956509775" />
+    <state x="487" y="434" key="Vcs.Push.Dialog.v2" timestamp="1597941294271">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="487" y="434" key="Vcs.Push.Dialog.v2/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597941294271" />
   </component>
 </project>
