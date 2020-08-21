@@ -31,31 +31,10 @@
       <change afterPath="$PROJECT_DIR$/../../java/java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../java/src/Hello.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ken java/ken java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation_TestOutCorp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/LabReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestCore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AccountInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AdvancedAccountSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/BaseComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSimulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/PasswordForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/SettingsPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/WiFiSettings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testout success.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Javascript/rock paper scizzers.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../html/Homework/hw1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -136,6 +115,9 @@
       <option name="presentableId" value="Default" />
       <updated>1597941238668</updated>
       <workItem from="1597941239991" duration="9391000" />
+      <workItem from="1597958607650" duration="1547000" />
+      <workItem from="1597970260816" duration="712000" />
+      <workItem from="1597980020960" duration="498000" />
     </task>
     <servers />
   </component>
@@ -158,22 +140,22 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="468" y="270" key="CommitChangelistDialog2/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597941396903" />
-    <state width="1232" height="268" key="GridCell.Tab.0.bottom" timestamp="1597958589020">
+    <state width="1232" height="268" key="GridCell.Tab.0.bottom" timestamp="1597976940789">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597958589020" />
-    <state width="1232" height="268" key="GridCell.Tab.0.center" timestamp="1597958589020">
+    <state width="1232" height="268" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="268" key="GridCell.Tab.0.center" timestamp="1597976940789">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597958589020" />
-    <state width="1232" height="268" key="GridCell.Tab.0.left" timestamp="1597958589020">
+    <state width="1232" height="268" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="268" key="GridCell.Tab.0.left" timestamp="1597976940789">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597958589020" />
-    <state width="1232" height="268" key="GridCell.Tab.0.right" timestamp="1597958589020">
+    <state width="1232" height="268" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="268" key="GridCell.Tab.0.right" timestamp="1597976940789">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597958589020" />
+    <state width="1232" height="268" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
     <state x="456" y="407" key="Maven.ArtifactSearchDialog" timestamp="1597943699322">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

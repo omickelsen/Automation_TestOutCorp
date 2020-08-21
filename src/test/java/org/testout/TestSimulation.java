@@ -15,9 +15,10 @@ public class TestSimulation extends TestCore{
     private IpadSimulation ipadSimulation;
 
     @Before
-    public void setUp() {
+    public void setUp() throws InterruptedException {
         driver = getWebDriver();
         driver.get(baseUrl);
+        driver.manage().window().maximize();
         ipadSimulation = new IpadSimulation(driver);
     }
 
