@@ -16,7 +16,7 @@ public class AdvancedAccountSettings extends BaseComponent{
 
 
     public void useSSL() {
-        WebElement sslSlider = findElementByWait(sslSliderBy, 5000);
+        WebElement sslSlider = findElementByWait(sslSliderBy, 3000);
         getActions().dragAndDropBy(sslSlider,40,0).perform();
     }
 
@@ -26,7 +26,7 @@ public class AdvancedAccountSettings extends BaseComponent{
     }
 
     public AccountInfo exitAdvancedSettings() {
-        WebElement exitElement = findElementByWait(exitBy, 5000);
+        WebElement exitElement = findElementByWait(exitBy, 3000);
         exitElement.click();
         return getPageFactory().initElements(getDriver(), AccountInfo.class);
     }

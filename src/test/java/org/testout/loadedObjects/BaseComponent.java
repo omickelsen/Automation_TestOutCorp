@@ -19,7 +19,7 @@ public class BaseComponent{
     public BaseComponent(WebDriver driver) {
         this.driver = driver;
         this.pageFactory = new PageFactory();
-        this.wait = new WebDriverWait(driver, 15);
+        this.wait = new WebDriverWait(driver, 5);
         this.actions = new Actions(driver);
     }
 

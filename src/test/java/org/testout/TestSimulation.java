@@ -15,7 +15,7 @@ public class TestSimulation extends TestCore{
     private IpadSimulation ipadSimulation;
 
     @Before
-    public void setUp() throws InterruptedException {
+    public void setUp()  {
         driver = getWebDriver();
         driver.get(baseUrl);
         driver.manage().window().maximize();
@@ -23,11 +23,11 @@ public class TestSimulation extends TestCore{
     }
 
     @Test
-    public void testSSLandPort() throws InterruptedException {
+    public void testSSLandPort()  {
         /*
         Setting, accounts, account advanced, ssl, port, done.
         */
-        Thread.sleep(3000);
+
         IpadSettings iPadSettings = ipadSimulation.clickSettings();
         SettingsPanel settingsPanel = iPadSettings.clickMailContactCalendars();
         AccountInfo accountInfo = settingsPanel.clickUserAccount();
@@ -49,7 +49,7 @@ public class TestSimulation extends TestCore{
         String actualScore = labReport.getScore();
         assertTrue("Incorrect score. Expected :" +  PERFECT_SCORE + "Actual: "
                 + actualScore, actualScore.contains(PERFECT_SCORE));
-        Thread.sleep(3000);
+
     }
 
 }

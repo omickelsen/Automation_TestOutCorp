@@ -17,7 +17,7 @@ public class IpadSimulation extends BaseComponent{
     }
 
     public IpadSettings clickSettings() {
-        WebElement iPadMainElement = findElementByWait(iPadBy, 5000);
+        WebElement iPadMainElement = findElementByWait(iPadBy, 3000);
         iPadMainElement.findElement(settingsBy).click();
         return getPageFactory().initElements(getDriver(), IpadSettings.class);
     }

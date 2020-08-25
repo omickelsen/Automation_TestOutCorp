@@ -16,13 +16,13 @@ public class AccountInfo extends BaseComponent{
     }
 
     public AdvancedAccountSettings selectAdvanced() {
-        WebElement advancedElement = findElementByWait(advancedBy, 5000);
+        WebElement advancedElement = findElementByWait(advancedBy, 3000);
         advancedElement.click();
         return getPageFactory().initElements(getDriver(), AdvancedAccountSettings.class);
     }
 
     public void selectDone() {
-        WebElement doneElement = findElementByWait(doneBy, 5000);
+        WebElement doneElement = findElementByWait(doneBy, 3000);
         doneElement.click();
     }
 }
