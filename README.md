@@ -5,4 +5,4 @@ Install Dependencies
 Run the Test
 Enjoy!
 
-![picture](./testout-success.gif)
+![picture](./automation%20testout%20without%20sleeps%20.gif)

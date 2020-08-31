@@ -34,11 +34,7 @@
       <change beforePath="$PROJECT_DIR$/../../Javascript/rock paper scizzers.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../html/Homework/hw1.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/TestSimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AccountInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AccountInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AdvancedAccountSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/AdvancedAccountSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/BaseComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/BaseComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testout/loadedObjects/IpadSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +129,9 @@
       <workItem from="1597958607650" duration="1547000" />
       <workItem from="1597970260816" duration="712000" />
       <workItem from="1597980020960" duration="878000" />
-      <workItem from="1598282728009" duration="5041000" />
+      <workItem from="1598282728009" duration="6205000" />
+      <workItem from="1598892959744" duration="25000" />
+      <workItem from="1598913084491" duration="453000" />
     </task>
     <servers />
   </component>
@@ -156,25 +154,25 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="468" y="270" key="CommitChangelistDialog2/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597941396903" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597980900475">
-      <screen x="3440" y="0" width="1920" height="1040" />
+    <state width="1232" height="267" key="GridCell.Tab.0.bottom" timestamp="1598411276492">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="267" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1598411276492" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@3440.0.1920.1040" timestamp="1597980900475" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597980900474">
-      <screen x="3440" y="0" width="1920" height="1040" />
+    <state width="1232" height="267" key="GridCell.Tab.0.center" timestamp="1598411276491">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="267" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1598411276491" />
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@3440.0.1920.1040" timestamp="1597980900474" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597980900474">
-      <screen x="3440" y="0" width="1920" height="1040" />
+    <state width="1232" height="267" key="GridCell.Tab.0.left" timestamp="1598411276491">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="267" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1598411276491" />
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@3440.0.1920.1040" timestamp="1597980900474" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597980900475">
-      <screen x="3440" y="0" width="1920" height="1040" />
+    <state width="1232" height="267" key="GridCell.Tab.0.right" timestamp="1598411276491">
+      <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1232" height="268" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1597976940789" />
+    <state width="1232" height="267" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@0.0.3440.1400" timestamp="1598411276491" />
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.3440.1400/3440.0.1920.1040/-1920.361.1920.1040@3440.0.1920.1040" timestamp="1597980900475" />
     <state x="456" y="407" key="Maven.ArtifactSearchDialog" timestamp="1597943699322">
       <screen x="0" y="0" width="3440" height="1400" />
